@@ -1,5 +1,6 @@
 # dino_hack_game
 
+I have done it by using Pycharm which is an python code editor.
 # First go to your browser and enter this url:
     chrome://dino
 
